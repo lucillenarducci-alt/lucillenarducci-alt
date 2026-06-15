@@ -14,4 +14,4 @@ focused on clean code, minimal ui, and high performance.
 
 **links**
 
-[defweb.ru](https://defweb.ru) · [telegram](https://t.me/ТВОЙ_НИК)
+[defweb.ru](https://defweb.ru) · [telegram](https://t.me/def008)
